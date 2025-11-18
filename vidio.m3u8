@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:2.0,
+sabarduluwoy0.ts
+#EXTINF:2.0,
+sabarduluwoy1.ts
+#EXTINF:2.0,
+sabarduluwoy2.ts
+#EXTINF:2.0,
+sabarduluwoy3.ts
+#EXTINF:1.584,
+sabarduluwoy4.ts
+#EXT-X-ENDLIST
